@@ -2,7 +2,7 @@
 
 A Java Maven-based console application developed as part of the **CodeAlpha Java Programming Internship**.
 
-##Project description🔎
+🔎Project description
 
 Student Grade Tracker is a Java Maven console application that enables adding, updating, searching, deleting, sorting, and managing student records. It includes automatic grade calculation, performance statistics, top performer analysis, report export, and persistent file storage using Object-Oriented Programming principles.
 
@@ -81,7 +81,7 @@ mvn clean package
 
 ### Add Student
 
-![Add Student](Screenshots/add-student.png)
+![Add Student](Screenshots/add-students.png)
 
 ### View All Students
 
