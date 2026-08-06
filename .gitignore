@@ -1,0 +1,74 @@
+# Maven Build Output
+/target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+*.launch
+
+# NetBeans IDE
+nbproject/private/
+nbproject/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+.netbeans/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Backup and Temporary Files
+*.bak
+*.swp
+*.swo
+*~
+.temp/
+tmp/
+
+# Log Files
+*.log
+logs/
+
+# IDEs Miscellaneous
+.env
+.env.local
+*.orig
+
+# Keep Version Control and Configuration
+!.gitkeep
+!.gitignore
